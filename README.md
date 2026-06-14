@@ -1,66 +1,108 @@
-# Akash Sureshkumar
+<div align="center">
 
-**Software Engineer & Team Lead.** I build production backends that stay fast under load and take ML/AI from a model to a service people actually call.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Akash%20Sureshkumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%26%20Team%20Lead&descSize=18&descAlignY=58)
 
-Currently at the **University at Buffalo**, leading a team of 6 on an internal research platform. Before that, three years at **Guardian Life** owning performance and reliability on a distributed eligibility platform serving **10M+ members**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=6366F1&center=true&vCenter=true&width=620&lines=Production+backends+that+stay+fast+under+load;ML+%2F+AI%2C+from+model+to+real+service;Leading+a+team+of+6+%40+University+at+Buffalo)](https://akashvignesh.github.io/)
 
-[Portfolio](https://akashvignesh.github.io/) · [LinkedIn](https://www.linkedin.com/in/akash-sureshkumar) · [Email](mailto:akashsureshkumar.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://akashvignesh.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-sureshkumar)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsureshkumar.dev@gmail.com)
+
+</div>
+
+I build production backends that stay fast under load and take ML/AI from a model to a service people actually call. Now at the **University at Buffalo**, leading a team of 6 on an internal research platform. Previously three years at **Guardian Life**, owning performance and reliability on a distributed eligibility platform serving **10M+ members**.
 
 ---
 
-## Selected impact
+## 📊 Selected impact
 
-- **455ms → 120ms** API p95 latency and **3× throughput** on a 10M+ member platform, through execution-plan rewrites, covering indexes, and Redis caching.
-- **5 days → 2 days** MTTR and **−40% critical incidents** with circuit breakers and real-time Splunk / CloudWatch observability.
+- **455ms → 120ms** API p95 latency and **3× throughput** on a 10M+ member platform, via execution-plan rewrites, covering indexes, and Redis caching.
+- **5d → 2d** MTTR and **−40% critical incidents** with circuit breakers and real-time Splunk / CloudWatch observability.
 - **60 → 15 min** release cycle by helping decompose a monolith into event-driven microservices with isolated CI/CD.
-- Led architecture, code review, and delivery for a **team of 6**; mentored **7 engineers** and cut onboarding ramp **40%**.
+- Led architecture, code review, and delivery for a **team of 6**; mentored **7 engineers**, cutting onboarding ramp **40%**.
 
 ---
 
-## What I'm building
-
-**Multimodal Pump-Fault Prediction** — fuses tabular sensor telemetry (LightGBM) and inspection images (CLIP ViT-B/32) through a gated cross-modal Transformer, without label leakage. *+26% throughput, sub-50ms p95 inference.* `FastAPI · PyTorch · Docker`
-
-**Agentic Browser Automation** — a provider-agnostic LLM agent that drives a real Chrome session over CDP to complete web tasks from one prompt; loop-guard plus a page-fingerprint cache eliminate redundant model calls. `TypeScript · LLM Agents · CDP · AWS Bedrock`
-
-**Document RAG Service** — grounded Q&A over PDFs with hybrid semantic + vector retrieval behind a FastAPI service. `Python · LangChain · ChromaDB · Gemini`
-
-**Faculty Research Portal (UB)** — leading 6 engineers to consolidate 6 departments onto one platform: 7+ Spring Boot REST APIs, JWT/OAuth2, and CI/CD that cut deploys 30 min → under 5. `Spring Boot · Next.js · PostgreSQL`
-
-→ Full case studies at **[akashvignesh.github.io](https://akashvignesh.github.io/)**
-
----
-
-## Stack
-
-**Backend** Java · Spring Boot · Node.js · REST · RabbitMQ
-**ML / AI** Python · PyTorch · scikit-learn · LangChain · MLflow
-**Data** PostgreSQL · MySQL · Redis
-**Cloud / DevOps** AWS · Docker · GitHub Actions
-**Frontend** TypeScript · React · Next.js
-
----
-
-## Experience
-
-| | | |
-|---|---|---|
-| **University at Buffalo** | Software Engineer & Team Lead | Feb 2026 – Present |
-| **Guardian Life** | Software Engineer II → I → Intern | Apr 2022 – Aug 2024 |
-
-## Education
-
-| | | |
-|---|---|---|
-| **M.S. Engineering Science (Data Science)** | University at Buffalo, SUNY | Dec 2025 |
-| **B.E. Computer Science** | Sri Sairam Engineering College | Jun 2022 |
-
----
+## 🛠️ Stack
 
 <div align="center">
 
+![Skills](https://skillicons.dev/icons?i=java,spring,python,ts,react,nextjs,nodejs,fastapi,postgres,mysql,redis,aws,docker,githubactions,pytorch,sklearn&perline=8)
+
+</div>
+
+---
+
+## 🚀 What I'm building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Multimodal Pump-Fault Prediction
+Fuses tabular sensor telemetry (LightGBM) and inspection images (CLIP ViT-B/32) through a gated cross-modal Transformer, without label leakage.
+**+26% throughput · sub-50ms p95 inference**
+`FastAPI · PyTorch · Docker`
+
+</td>
+<td width="50%" valign="top">
+
+#### Agentic Browser Automation
+A provider-agnostic LLM agent that drives a real Chrome session over CDP to complete web tasks from one prompt; a loop-guard and page-fingerprint cache kill redundant model calls.
+`TypeScript · LLM Agents · CDP · AWS Bedrock`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Document RAG Service
+Grounded Q&A over PDFs with hybrid semantic + vector retrieval, served behind a FastAPI endpoint.
+`Python · LangChain · ChromaDB · Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+#### Faculty Research Portal · UB
+Leading 6 engineers to consolidate 6 departments onto one platform: 7+ Spring Boot REST APIs, JWT/OAuth2, CI/CD that cut deploys **30 → <5 min**.
+`Spring Boot · Next.js · PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**→ Full case studies at [akashvignesh.github.io](https://akashvignesh.github.io/)**
+
+</div>
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=akashvignesh&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashvignesh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
 
-**Open to full-time Software Engineer / ML Engineer roles.**
+</div>
+
+---
+
+## 🎓 Background
+
+| | | |
+|---|---|---|
+| 💼 **University at Buffalo** | Software Engineer & Team Lead | Feb 2026 – Present |
+| 💼 **Guardian Life** | Software Engineer II → I → Intern | Apr 2022 – Aug 2024 |
+| 🎓 **M.S. Engineering Science (Data Science)** | University at Buffalo, SUNY | Dec 2025 |
+| 🎓 **B.E. Computer Science** | Sri Sairam Engineering College | Jun 2022 |
+
+<div align="center">
+
+### Open to full-time Software Engineer / ML Engineer roles
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer)
 
 </div>
