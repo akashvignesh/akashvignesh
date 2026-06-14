@@ -30,40 +30,12 @@
 
 ---
 
-## 🎮 Stats &mdash; insert coin
+## 📊 GitHub at a glance
 
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=akashvignesh&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashvignesh&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akashvignesh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)
-
-</div>
-
----
-
-## 🧩 Profile summary
-
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashvignesh&theme=tokyonight)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashvignesh&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akashvignesh&theme=tokyonight)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashvignesh&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akashvignesh&theme=tokyonight&utcOffset=-5)
-
-</div>
-
----
-
-## 🏆 Trophy case
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=akashvignesh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashvignesh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
 
 </div>
 
