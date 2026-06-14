@@ -2,13 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=220&section=header&text=Akash%20Sureshkumar&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%2B%20ML%2FAI%20%E2%80%A2%20Team%20Lead&descSize=18&descAlignY=56)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=6366F1&center=true&vCenter=true&width=640&lines=Production+backends+that+stay+fast+under+load;ML+%2F+AI%2C+from+model+to+real+service;Leading+a+team+of+6+%40+University+at+Buffalo;Probably+thinking+about+system+design)](https://akashvignesh.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=6366F1&center=true&vCenter=true&width=640&lines=Production+backends+that+stay+fast+under+load;ML+%2F+AI%2C+from+model+to+real+service;Leading+a+team+of+6+%40+University+at+Buffalo)](https://akashvignesh.github.io/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://akashvignesh.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-sureshkumar)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsureshkumar.dev@gmail.com)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=akashvignesh&color=6366F1&style=for-the-badge&label=VISITORS)
 
 </div>
 
@@ -16,32 +14,7 @@
 
 ---
 
-## 🐍 Watch the snake eat my commits
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashvignesh/akashvignesh/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashvignesh/akashvignesh/output/github-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/akashvignesh/akashvignesh/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 📊 GitHub at a glance
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=akashvignesh&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashvignesh&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
-
-</div>
-
----
-
-## 🛠️ Stack
+## 🛠️ Skills
 
 <div align="center">
 
@@ -49,9 +22,30 @@
 
 </div>
 
+**Backend** Java · Spring Boot · Node.js · REST · RabbitMQ
+**ML / AI** Python · PyTorch · scikit-learn · LangChain · MLflow
+**Data** PostgreSQL · MySQL · Redis
+**Cloud / DevOps** AWS · Docker · GitHub Actions
+**Frontend** TypeScript · React · Next.js
+
 ---
 
-## 🚀 What I'm building
+## 💼 Experience
+
+| | | |
+|---|---|---|
+| **University at Buffalo** | Software Engineer & Team Lead | Feb 2026 – Present |
+| **Guardian Life** | Software Engineer II → I → Intern | Apr 2022 – Aug 2024 |
+
+**Selected impact**
+- **455ms → 120ms** API p95 and **3× throughput** on a 10M+ member platform.
+- **5d → 2d** MTTR and **−40% incidents** with circuit breakers + real-time observability.
+- **60 → 15 min** release cycle by decomposing a monolith into event-driven microservices.
+- Led a **team of 6**, mentored **7 engineers**, cut onboarding ramp **40%**.
+
+---
+
+## 🚀 Projects
 
 <table>
 <tr>
@@ -93,29 +87,24 @@ Leading 6 engineers to consolidate 6 departments onto one platform; 7+ Spring Bo
 
 ---
 
-## 💥 Selected impact
-
-- **455ms → 120ms** API p95 and **3× throughput** on a 10M+ member platform.
-- **5d → 2d** MTTR and **−40% incidents** with circuit breakers + real-time observability.
-- **60 → 15 min** release cycle by decomposing a monolith into event-driven microservices.
-- Led a **team of 6**, mentored **7 engineers**, cut onboarding ramp **40%**.
-
----
-
-## 🎓 Background
+## 🎓 Education
 
 | | | |
 |---|---|---|
-| 💼 **University at Buffalo** | Software Engineer & Team Lead | Feb 2026 – Present |
-| 💼 **Guardian Life** | Software Engineer II → I → Intern | Apr 2022 – Aug 2024 |
-| 🎓 **M.S. Engineering Science (Data Science)** | University at Buffalo, SUNY | Dec 2025 |
-| 🎓 **B.E. Computer Science** | Sri Sairam Engineering College | Jun 2022 |
+| **M.S. Engineering Science (Data Science)** | University at Buffalo, SUNY | Dec 2025 |
+| **B.E. Computer Science** | Sri Sairam Engineering College | Jun 2022 |
 
 ---
 
+## 🐍 Bonus: watch the snake eat my commits
+
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashvignesh/akashvignesh/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashvignesh/akashvignesh/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/akashvignesh/akashvignesh/output/github-snake.svg">
+</picture>
 
 ### ⚡ Open to full-time Software Engineer / ML Engineer roles
 
